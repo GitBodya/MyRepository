@@ -1,7 +1,7 @@
 function f(){
     //console.log(4/0);
     //alert(9);
-   // console.log(9);
+   
   //  document.write('cv');
    // console.log('sdd'*56);
 }
